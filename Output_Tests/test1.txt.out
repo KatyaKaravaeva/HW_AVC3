@@ -1,0 +1,7 @@
+Container is store 5 animals:
+Fish: name = Haddock  weight = 12  type = RIVER, ratio = 57.17
+Fish: name = Ruffe  weight = 43  type = RIVER, ratio = 11.72
+Fish: name = Tuna  weight = 7  type = SEA, ratio = 58.29
+Fish: name = Vobla  weight = 54  type = LAKE, ratio = 9.26
+Fish: name = Grouper  weight = 23  type = RIVER, ratio = 32.17
+

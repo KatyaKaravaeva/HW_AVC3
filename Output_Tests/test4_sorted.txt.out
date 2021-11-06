@@ -1,0 +1,12 @@
+Container is store 10 animals:
+Fish: name = Tuna  weight = 7  type = SEA, ratio = 58.29
+Bird: name = Sparrow  weight = 18 flyOrStay = False, ratio = 41.67
+Bird: name = Raven  weight = 19 flyOrStay = True, ratio = 26.74
+Bird: name = Woodcock  weight = 38 flyOrStay = True, ratio = 21.71
+Beast: name = Mouse  weight = 24  type = HERBIVORES, ratio = 21.71
+Bird: name = Snipe  weight = 25 flyOrStay = False, ratio = 20.44
+Beast: name = Hen  weight = 23  type = PREDATORS, ratio = 12.3
+Beast: name = Sheep  weight = 41  type = PREDATORS, ratio = 12.22
+Fish: name = Ruffe  weight = 43  type = RIVER, ratio = 11.72
+Fish: name = Vobla  weight = 54  type = LAKE, ratio = 9.26
+

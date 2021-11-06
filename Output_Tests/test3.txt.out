@@ -1,0 +1,10 @@
+Container is store 8 animals:
+Bird: name = stork  weight = 23 flyOrStay = False, ratio = 24.48
+Bird: name = cormorant  weight = 12 flyOrStay = True, ratio = 81.75
+Bird: name = albatross  weight = 54 flyOrStay = False, ratio = 17.98
+Bird: name = snipe  weight = 25 flyOrStay = False, ratio = 21.72
+Bird: name = woodcock  weight = 38 flyOrStay = True, ratio = 22.55
+Bird: name = sparrow  weight = 18 flyOrStay = False, ratio = 43.44
+Bird: name = raven  weight = 19 flyOrStay = True, ratio = 28.42
+Bird: name = crow  weight = 48 flyOrStay = False, ratio = 9.23
+

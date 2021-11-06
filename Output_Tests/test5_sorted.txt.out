@@ -1,0 +1,8 @@
+Container is store 6 animals:
+Fish: name = Tuna  weight = 7  type = SEA, ratio = 58.29
+Beast: name = Rabbit  weight = 23  type = HERBIVORES, ratio = 25.91
+Bird: name = Snipe  weight = 25 flyOrStay = False, ratio = 20.44
+Bird: name = Albatross  weight = 54 flyOrStay = False, ratio = 17.39
+Beast: name = Pig  weight = 23  type = PREDATORS, ratio = 12.52
+Fish: name = Vobla  weight = 54  type = SEA, ratio = 9.26
+

@@ -1,0 +1,9 @@
+Container is store 7 animals:
+Beast: name = Rabbit  weight = 23  type = INSECTIVORES, ratio = 25.91
+Beast: name = Mouse  weight = 24  type = HERBIVORES, ratio = 21.71
+Beast: name = Hamster  weight = 34  type = HERBIVORES, ratio = 21.29
+Beast: name = Horse  weight = 34  type = INSECTIVORES, ratio = 15.09
+Beast: name = Pig  weight = 23  type = PREDATORS, ratio = 12.52
+Beast: name = Hen  weight = 23  type = PREDATORS, ratio = 12.3
+Beast: name = Sheep  weight = 41  type = PREDATORS, ratio = 12.22
+
